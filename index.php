@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo readfile("myfile.html");
+echo readfile("myfile.php");
 ?>
 
 </body>
