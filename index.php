@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo readfile("webdictionary.txt");
+echo readfile("myfile.html");
 ?>
 
 </body>
